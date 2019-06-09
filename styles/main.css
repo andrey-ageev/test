@@ -1,0 +1,18 @@
+body {
+    margin: 20px;
+    font: 1em Arial;
+}
+
+.container {
+    /* display: none; */
+    background: #f8c81c;
+    width: 300px;
+    height: 200px;
+    border: 1px solid #999;
+    border-radius: 3px;
+    overflow: auto;
+}
+
+span {
+    color: red;
+}
